@@ -1,9 +1,7 @@
 <h3 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h3>
 
 <div align="center">
-  <a href="https://discord.gg/B3PSRufZ7T" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="26" alt="discord"/></a><!--
---><a href="https://youtube.com/@beqi3774" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="26" alt="youtube"/></a><!--
---><a href="https://steamcommunity.com/id/bequietbro/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" height="26" alt="steam"/></a>
+  <a href="https://beqibro.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logoColor=white" height="26" alt="MY WEBSITE"/></a>
 </div>
 
 ---
