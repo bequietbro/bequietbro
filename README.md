@@ -1,7 +1,7 @@
 <h3 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h3>
 
 <div align="center">
-  <a href="https://beqibro.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logoColor=white" height="26" alt="MY WEBSITE"/></a>
+  <a href="https://beqibro.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/MY WEBSITE-%23000000.svg?style=for-the-badge&logoColor=white" height="26" alt="MY WEBSITE"/></a>
 </div>
 
 ---
