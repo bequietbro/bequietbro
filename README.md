@@ -1,3 +1,6 @@
+<div align="center">
+  <a href="https://beqibro.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/MY WEBSITE-%23E50914.svg?style=for-the-badge&logo=pinboard&logoColor=white" height="26" alt="website"/></a>
+</div>
 ---
 <h3 align="center">𝗦𝗞𝗜𝗟𝗟𝗦</h3>
 
@@ -8,9 +11,6 @@
 --><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" height="24" alt="Python"/><!--
 --><img src="https://custom-icon-badges.demolab.com/badge/Disnake-000000?style=for-the-badge&logo=discord-py" height="24" alt="Disnake"/><!--
 --></div>
-<div align="center">
-  <a href="https://beqibro.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/MY WEBSITE-%23E50914.svg?style=for-the-badge&logo=pinboard&logoColor=white" height="26" alt="website"/></a>
-</div>
 
 ---
 ![](https://github-profile-trophy.vercel.app/?username=bequietbro&theme=monokai&no-frame=true&no-bg=false&margin-w=2)
