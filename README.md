@@ -1,7 +1,7 @@
+
 <div align="center">
   <a href="https://beqibro.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/MY WEBSITE-%23E50914.svg?style=for-the-badge&logo=pinboard&logoColor=white" height="26" alt="website"/></a>
 </div>
----
 <h3 align="center">𝗦𝗞𝗜𝗟𝗟𝗦</h3>
 
 <div align="center"><!--
