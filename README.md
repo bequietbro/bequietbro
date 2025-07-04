@@ -9,7 +9,7 @@
 --><img src="https://custom-icon-badges.demolab.com/badge/Disnake-000000?style=for-the-badge&logo=discord-py" height="24" alt="Disnake"/><!--
 --></div>
 <div align="center">
-  <a href="https://beqibro.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/MY WEBSITE-%23000000.svg?style=for-the-badge&logo=pinboard&logoColor=white" height="26" alt="website"/></a>
+  <a href="https://beqibro.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/MY WEBSITE-%23E50914.svg?style=for-the-badge&logo=pinboard&logoColor=white" height="26" alt="website"/></a>
 </div>
 
 ---
