@@ -27,7 +27,7 @@
 
 <div align="center">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=bequietbro&show_icons=true&theme=monokai&hide_title=true&bg_color=00000000&border_color=30363d&disable_animations=true&hide=prs,issues"/>
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bequietbro&layout=compact&theme=monokai&bg_color=00000000&border_color=30363d&disable_animations=true&exclude_repo=bequietbro.github.io,bequietbro"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bequietbro&layout=compact&theme=monokai&bg_color=00000000&border_color=30363d&disable_animations=true&exclude_repo=bequietbro.github.io,bequietbro"/>
 </div>
 
 ---
