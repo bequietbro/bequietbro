@@ -50,8 +50,10 @@
 
 <div align="center">
 
-<a href="https://github.com/bequietbro?tab=repositories">
-  <img src="https://img.shields.io/badge/Show%20More-2f2f2f?logo=github&logoColor=white&style=for-the-badge" alt="Show More" />
-</a>
+<br>
+
+↳ [Show More](https://github.com/bequietbro?tab=repositories) ↲
+
+<br>
 
 </div>
