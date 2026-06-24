@@ -36,6 +36,9 @@
 <a href="https://github.com/bequietbro/QSteam-Millennium">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bequietbro&repo=QSteam-Millennium&theme=monokai&bg_color=00000000&border_color=30363d&disable_animations=true"/>
 </a>
+<a href="https://github.com/bequietbro/QuietTools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bequietbro&repo=QuietTools&theme=monokai&bg_color=00000000&border_color=30363d&disable_animations=true"/>
+</a>
 
 </div>
 
