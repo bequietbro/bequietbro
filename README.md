@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows11&logoColor=white&style=flat-square" alt="Windows"/> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux"/> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" alt="Android"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/> <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square" alt="Rust"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"/> <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB&style=flat-square" alt="React"/> <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=flat-square" alt="Tauri"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows11&logoColor=white&style=flat-square" alt="Windows"/> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux"/> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" alt="Android"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/> <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square" alt="Rust"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"/> <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=flat-square" alt="Tauri"/>
 
 </div>
 
