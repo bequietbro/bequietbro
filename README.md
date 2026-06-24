@@ -23,7 +23,7 @@
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=bequietbro&show_icons=true&theme=monokai&hide_title=true&bg_color=00000000&border_color=30363d&disable_animations=true&hide=prs,issues"/>
   </a>
   <a href="https://github.com/bequietbro">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bequietbro&layout=compact&theme=monokai&bg_color=00000000&border_color=30363d&disable_animations=true&exclude_repo=bequietbro.github.io,bequietbro&card_width=320&include_forks=true"/>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bequietbro&layout=compact&theme=monokai&bg_color=00000000&border_color=30363d&disable_animations=true&exclude_repo=bequietbro.github.io,bequietbro&card_width=320"/>
   </a>
 </div>
 
