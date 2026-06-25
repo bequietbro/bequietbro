@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bequietbro&theme=monokai&no-frame=true&no-bg=false&margin-w=2" alt="GitHub Trophies">
+  <img src="https://trophy.ryglcloud.net/?username=bequietbro&theme=monokai&no-frame=true&no-bg=false&margin-w=2" alt="GitHub Trophies">
 </div>
 
 <div align="center">
