@@ -13,9 +13,7 @@
 </div>
 
 <div align="center">
-
-![](https://github-profile-trophy-winning.vercel.app/?username=bequietbro&theme=monokai&no-frame=true&no-bg=false&margin-w=2)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=bequietbro&theme=monokai&no-frame=true&no-bg=false&margin-w=2" alt="GitHub Trophies">
 </div>
 
 <div align="center">
