@@ -27,21 +27,6 @@
 
 ---
 
-## Top Repositories
-
-<div align="center">
-<a href="https://github.com/bequietbro/QSteam-Millennium">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=bequietbro&repo=QSteam-Millennium&theme=monokai&bg_color=00000000&border_color=30363d&disable_animations=true"/>
-</a>
-<a href="https://github.com/bequietbro/QuietTools">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=bequietbro&repo=QuietTools&theme=monokai&bg_color=00000000&border_color=30363d&disable_animations=true"/>
-</a>
-</div>
-
-<br>
-
-<div align="center">
-
 <a href="https://github.com/bequietbro?tab=repositories" style="text-decoration: none;">
   <sub><sup>──────────</sup></sub> Show More <sub><sup>──────────</sup></sub>
 </a>
