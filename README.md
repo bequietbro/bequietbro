@@ -27,6 +27,8 @@
 
 ---
 
+<div align="center">
+
 <a href="https://github.com/bequietbro?tab=repositories" style="text-decoration: none;">
   <sub><sup>──────────</sup></sub> Show More <sub><sup>──────────</sup></sub>
 </a>
