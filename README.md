@@ -13,7 +13,6 @@
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" height="48px"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="Rust" height="48px"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" height="48px"/> </a>
-<a href="https://tauri.app/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tauri-Dark.svg" alt="Tauri" height="48px"/> </a>
 </div>
 
 <div align="center">
