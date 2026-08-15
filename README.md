@@ -1,6 +1,6 @@
 <div align="center">
 
-[https://bequietbro.github.io/](https://bequietbro.github.io/)
+https://fluxer.name/beqi
 
 </div>
 
