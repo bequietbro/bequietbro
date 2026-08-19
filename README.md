@@ -1,6 +1,6 @@
 <div align="center">
 
-https://fluxer.name/beqi
+https://bequietbro.vercel.app
 
 </div>
 
